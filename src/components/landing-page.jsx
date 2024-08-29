@@ -70,7 +70,7 @@ export function LandingPage() {
         className="mt-8 text-lg text-[#6495ed] cursor-pointer underline hover:text-[#87ceeb]"
         onClick={() => setIsFaqOpen(true)}
       >
-        Want to learn more ⁉️ FAQ's 😊 
+        Want to learn more ⁉️ FAQ&apos;s 😊
       </p>
 
       {/* FAQ Modal */}
